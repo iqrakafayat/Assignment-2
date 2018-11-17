@@ -20,7 +20,7 @@ background-colour:#f4f4f4;  /*#f4f4f4 light gray*/
   background:#35424a; /*#35424a DARK GRAY*/
   colour:#ffffff;   /*#FFFFF WHITE */
   margin-top:10px;
-  margin:bottom:10px;
+  margin-bottom: 10px;
 }
 header ul{
 margin:0;
@@ -57,7 +57,7 @@ font-size:16px;
 
 header li{
 color:#e8491d;
-float;left;
+float:left;
 display:inline;
 padding:0 20px 0 20px;
 }
@@ -99,7 +99,7 @@ IT IS THE LARGE IMAGE THAT IS IN BETWEEN THE CENTER OF THE PAGE THE HOME PAGE*/
 #showcase{
 min-height: 400px;
 background:url('../img/showcase.jpg') no-repeat 0 -400px;
-text-aline:center;
+text-align:center;
 color:#ffffff;
 
 }
@@ -158,14 +158,14 @@ margin-top:20px;
 
 #boxes .box{
 float:left;                        /*ANS:                               */
-text:align:center;
+text:align center;
 width:30%;
 padding:10px;
 }
 
 
 #boxes .box img{
-weidth: 90px;
+width: 90px;
 }
                   /* SIDEBAR IN ABOUT PAGE*/
                   /*THIS IS USED TO ADD STYLING TO THE DATA IN THE SIDE BAR SHOWN IN THE OUTPUT AFTER RUNNING*/
@@ -184,7 +184,7 @@ aside#sidebar{
 
 
 /* about us data paragraph Allignmnet**/
-artical#main-col{
+.artical#main-col{
   float:left;
   width:65%;
 }
@@ -197,7 +197,7 @@ artical#main-col{
 ul#servises li{
   list-style:none;
   padding:20px;                   /* NOT WORKING **/
-  boder:#cccccc solid 1px;
+  border:#cccccc solid 1px;
   margin-bottom:5px;
   background:#e6e6e6;
 }
