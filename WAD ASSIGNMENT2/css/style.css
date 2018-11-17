@@ -140,13 +140,12 @@ margin-top:15px;
 }
 
 /*NOW THERE IS A TASK FOR ALL OF YOU YOU HAVE TO ENTER THE CORRECT EMAIL AND THE WRONG FORMATED EMAIL IN THE BOX
-AND THEN COMMENT WHAT HAPPEND TO THE PAGE RIGHT IN FROUNT OF THIS CODE*/
+AND THEN COMMENT WHAT HAPPENED TO THE PAGE RIGHT IN FRONT OF THIS CODE*/
 #newsletter input[type="email"]{
 padding:4px;
-height:25px;          /*ANS:                */
+height:25px;          /*ANS:  When you type the wrong email it generates that @ is missing in your email.And when you write email in right format it gets accepted.*/
 width:250px;
 }
-
 
 
 
